@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1b6ca72e7c707b7",
+            "id": "a214e619d7b55a04",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Story"
+                "path": "02 - notes"
               },
               "icon": "lucide-file",
-              "title": "Story"
+              "title": "02 - notes"
             }
           }
         ]
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "cf756d132c0026ac",
+            "id": "71b2ce93e2be179d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -108,7 +108,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
@@ -156,13 +156,33 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "e3accb9ecb78f217",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "6cd8e20c86e412e5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 257.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,43 +196,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1b6ca72e7c707b7",
+  "active": "a214e619d7b55a04",
   "lastOpenFiles": [
-    "Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Temple of Ash and Flame.md",
-    "Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Silver Sanctum.md",
-    "Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Moonlit Hollow.md",
-    "Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Crypt of Wails.md",
-    "Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Crypt of Shadows.md",
-    "Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Blackspire - Traitor Hideout.md",
-    "Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Whispering Brook.md",
-    "Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Wailing Cave.md",
-    "Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Silent Shrine.md",
-    "Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Shadowed Grove.md",
-    "Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Moonwatcher's Rest.md",
-    "Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Black Briar Hollow.md",
-    "Story/04 - Organisations/The moon's Shadow/The Moon's Shadow.md",
-    "Story/04 - Organisations/The moon's Shadow/Hideouts.md",
-    "Story/04 - Organisations/The moon's Shadow/Clues to reveal Selena being Traitor.md",
-    "Story/09 - Tags/Quest.md",
-    "Story/09 - Tags/Place.md",
-    "Story/09 - Tags/Mountain.md",
-    "Story/09 - Tags/Kryptgarden.md",
-    "Story/09 - Tags/Forest.md",
-    "Story/09 - Tags/Cult.md",
-    "Story/09 - Tags/City.md",
-    "Story/02 - Places/Westwood.md",
-    "Story/02 - Places/Waterdeep.md",
-    "Story/02 - Places/Triboar.md",
-    "Story/02 - Places/The Lurkwood.md",
-    "Story/04 - Organisations/The moon's Shadow/Hideouts Small",
-    "Story/04 - Organisations/The moon's Shadow/Hideouts Big",
-    "Story/04 - Organisations/Untitled",
-    "Story/09 - Tags",
-    "Story/08 - Templates",
-    "Story/05 -notes",
-    "Story/04 - Organisations/The moon's Shadow",
-    "Story/04 - Organisations",
-    "Story/03 - Quests",
-    "Story/02 - Places"
+    "02 - notes/02 - notes.md",
+    "02 - notes/Untitled.md",
+    "08 - Templates/Notes.md",
+    "02 - notes",
+    "08 - Templates/Quests.md",
+    "Tags/Tags.md",
+    "Vault.md",
+    "01 -Story/01 -Story.md",
+    "README.md",
+    "01 -Story/02 - Places/Baldur’s Gate.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Temple of Ash and Flame.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Silver Sanctum.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Moonlit Hollow.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Crypt of Wails.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Crypt of Shadows.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Blackspire - Traitor Hideout.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Whispering Brook.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Wailing Cave.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Silent Shrine.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Shadowed Grove.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Moonwatcher's Rest.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Black Briar Hollow.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/The Moon's Shadow.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Clues to reveal Selena being Traitor.md",
+    "09 - Tags/Quest.md",
+    "09 - Tags/Place.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big",
+    "01 -Story/04 - Organisations/Untitled",
+    "09 - Tags",
+    "08 - Templates",
+    "01 -Story/05 -notes",
+    "01 -Story/04 - Organisations/The moon's Shadow",
+    "01 -Story/04 - Organisations",
+    "01 -Story/03 - Quests"
   ]
 }
