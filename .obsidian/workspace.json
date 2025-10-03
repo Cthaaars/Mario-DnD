@@ -11,12 +11,14 @@
             "id": "a214e619d7b55a04",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "02 - notes"
+                "file": "02 - notes/Session 1.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - notes"
+              "title": "Session 1"
             }
           }
         ]
@@ -196,11 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f71ed41b4aa0c227",
+  "active": "a214e619d7b55a04",
   "lastOpenFiles": [
-    "Tags",
+    "02 - notes/Session 1.md",
     "02 - notes/02 - notes.md",
-    "02 - notes/Untitled.md",
+    "Tags",
     "08 - Templates/Notes.md",
     "02 - notes",
     "08 - Templates/Quests.md",
@@ -232,7 +234,6 @@
     "08 - Templates",
     "01 -Story/05 -notes",
     "01 -Story/04 - Organisations/The moon's Shadow",
-    "01 -Story/04 - Organisations",
-    "01 -Story/03 - Quests"
+    "01 -Story/04 - Organisations"
   ]
 }
