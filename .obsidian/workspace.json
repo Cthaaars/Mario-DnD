@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Organisatorisches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Organisatorisches"
             }
           }
         ]
@@ -200,8 +200,9 @@
   },
   "active": "a214e619d7b55a04",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "README.md",
+    "Organisatorisches.md",
+    "conflict-files-obsidian-git.md",
     "Organisatorisches.md",
     "02 - notes/Session 1.md",
     "02 - notes/02 - notes.md",
@@ -227,7 +228,6 @@
     "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Moonwatcher's Rest.md",
     "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Black Briar Hollow.md",
     "01 -Story/04 - Organisations/The moon's Shadow/The Moon's Shadow.md",
-    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts.md",
     "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small",
     "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big",
     "01 -Story/04 - Organisations/Untitled",
