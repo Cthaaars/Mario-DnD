@@ -42,7 +42,10 @@
     "//Story",
     "//Tags",
     "//02 - notes",
-    "//08 - Templates"
+    "//08 - Templates",
+    "//01 -Story/01 -Story/04 - Organisations",
+    "//01 -Story",
+    "//01 -Story/01 -Story/03 - Quests"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

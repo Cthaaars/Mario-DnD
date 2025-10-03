@@ -11,14 +11,12 @@
             "id": "a214e619d7b55a04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "02 - notes/Session 1.md",
-                "mode": "source",
-                "source": false
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "DND Mario"
             }
           }
         ]
@@ -75,7 +73,7 @@
             }
           },
           {
-            "id": "a534a9000aed188c",
+            "id": "2cf1731523ae7de3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -198,8 +196,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a214e619d7b55a04",
+  "active": "6cd8e20c86e412e5",
   "lastOpenFiles": [
+    "Vault.md",
+    "01 -Story/03 - Quests/Cultist Hideout.md",
+    "01 -Story/03 - Quests/First mission.md",
+    "01 -Story/01 -Story.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Blackspire - Traitor Hideout.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Black Briar Hollow.md",
+    "01 -Story/02 - Places/Westwood.md",
+    "01 -Story/02 - Places/Neverwinter.md",
+    "01 -Story/02 - Places/Waterdeep.md",
+    "01 -Story/02 - Places/Triboar.md",
+    "01 -Story/02 - Places/The High Forest.md",
+    "01 -Story/02 - Places/The Lurkwood.md",
+    "01 -Story/02 - Places/Silvermoon.md",
+    "01 -Story/02 - Places/Mount Hotenow.md",
+    "01 -Story/02 - Places/Kryptgarden Forest.md",
+    "01 -Story/02 - Places/Elturel.md",
+    "01 -Story/02 - Places/Daggerford.md",
+    "01 -Story/02 - Places/Baldur’s Gate.md",
     "02 - notes/Session 1.md",
     "02 - notes/02 - notes.md",
     "Tags",
@@ -207,26 +223,9 @@
     "02 - notes",
     "08 - Templates/Quests.md",
     "Tags/Tags.md",
-    "Vault.md",
-    "01 -Story/01 -Story.md",
     "README.md",
-    "01 -Story/02 - Places/Baldur’s Gate.md",
     "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Temple of Ash and Flame.md",
     "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Silver Sanctum.md",
-    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Moonlit Hollow.md",
-    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Crypt of Wails.md",
-    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Crypt of Shadows.md",
-    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Blackspire - Traitor Hideout.md",
-    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Whispering Brook.md",
-    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Wailing Cave.md",
-    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Silent Shrine.md",
-    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Shadowed Grove.md",
-    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Moonwatcher's Rest.md",
-    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Black Briar Hollow.md",
-    "01 -Story/04 - Organisations/The moon's Shadow/The Moon's Shadow.md",
-    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts.md",
-    "01 -Story/04 - Organisations/The moon's Shadow/Clues to reveal Selena being Traitor.md",
-    "09 - Tags/Quest.md",
     "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small",
     "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big",
     "01 -Story/04 - Organisations/Untitled",
