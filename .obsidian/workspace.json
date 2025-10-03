@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "71b2ce93e2be179d",
+            "id": "a534a9000aed188c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -163,8 +163,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           },
           {
@@ -196,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a214e619d7b55a04",
+  "active": "f71ed41b4aa0c227",
   "lastOpenFiles": [
+    "Tags",
     "02 - notes/02 - notes.md",
     "02 - notes/Untitled.md",
     "08 - Templates/Notes.md",
@@ -224,7 +225,6 @@
     "01 -Story/04 - Organisations/The moon's Shadow/Hideouts.md",
     "01 -Story/04 - Organisations/The moon's Shadow/Clues to reveal Selena being Traitor.md",
     "09 - Tags/Quest.md",
-    "09 - Tags/Place.md",
     "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small",
     "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big",
     "01 -Story/04 - Organisations/Untitled",
