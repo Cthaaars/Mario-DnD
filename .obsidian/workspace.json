@@ -11,12 +11,14 @@
             "id": "a214e619d7b55a04",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "Organisatorisches.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "DND Mario"
+              "title": "Organisatorisches"
             }
           }
         ]
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "78adb724c7c56210",
+            "id": "f4f5fe4075add85c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -196,14 +198,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cd8e20c86e412e5",
+  "active": "a214e619d7b55a04",
   "lastOpenFiles": [
+    "09 - Tags/Cult.md",
+    "Organisatorisches.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Moonwatcher's Rest.md",
+    "01 -Story/04 - Organisations/The moon's Shadow/The Moon's Shadow.md",
+    "01 -Story/03 - Quests/Cultist Hideout.md",
+    "02 - notes/02 - notes.md",
+    "01 -Story/01 -Story.md",
     "Vault.md",
     "conflict-files-obsidian-git.md",
-    "Organisatorisches.md",
-    "01 -Story/03 - Quests/Cultist Hideout.md",
     "01 -Story/03 - Quests/First mission.md",
-    "01 -Story/01 -Story.md",
     "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big/The Blackspire - Traitor Hideout.md",
     "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small/The Black Briar Hollow.md",
     "01 -Story/02 - Places/Westwood.md",
@@ -219,13 +225,9 @@
     "01 -Story/02 - Places/Daggerford.md",
     "01 -Story/02 - Places/Baldur’s Gate.md",
     "02 - notes/Session 1.md",
-    "02 - notes/02 - notes.md",
     "Tags",
     "08 - Templates/Notes.md",
     "02 - notes",
-    "08 - Templates/Quests.md",
-    "Tags/Tags.md",
-    "README.md",
     "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small",
     "01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big",
     "01 -Story/04 - Organisations/Untitled",
