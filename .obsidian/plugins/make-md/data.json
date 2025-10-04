@@ -38,7 +38,8 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//02 - notes"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

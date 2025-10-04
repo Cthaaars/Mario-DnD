@@ -6,3 +6,19 @@
 
 
 ### Notes:
+Entscheidungen:
+
+
+
+Aktuelle Quest:
+
+
+
+Aktuelle Feinde:
+
+
+
+Aktuelle Verbündete:
+
+
+
