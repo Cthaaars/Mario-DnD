@@ -39,13 +39,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Story",
-    "//Tags",
-    "//02 - notes",
-    "//08 - Templates",
-    "//01 -Story",
-    "//01 -Story/01 -Story/04 - Organisations",
-    "//01 -Story/01 -Story/04 - Organisations/01 -Story/04 - Organisations/The moon's Shadow"
+    "//02 - notes"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -57,6 +51,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
@@ -79,7 +75,7 @@
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "DND Mario",
+  "systemName": "Mario-DnD",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,
