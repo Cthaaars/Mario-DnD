@@ -39,7 +39,11 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//02 - notes"
+    "//01 -Story",
+    "//01 -Story/01 -Story/04 - Organisations",
+    "//01 -Story/01 -Story/04 - Organisations/01 -Story/04 - Organisations/The moon's Shadow",
+    "//01 -Story/01 -Story/04 - Organisations/01 -Story/04 - Organisations/The moon's Shadow/01 -Story/04 - Organisations/The moon's Shadow/Hideouts Small",
+    "//01 -Story/01 -Story/04 - Organisations/01 -Story/04 - Organisations/The moon's Shadow/01 -Story/04 - Organisations/The moon's Shadow/Hideouts Big"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -51,8 +55,6 @@
     "_assets",
     "_blocks"
   ],
-  "newFileLocation": "root",
-  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,

@@ -4,3 +4,14 @@
 Spieler starten in taverne. bekommen Quest eine person auf level 1 von underdark zu finden.
 
 wenn spieler die person finden treffen sie auf einen untertanen von [[The Moonwatcher's Rest | The Whisperer]] welcher sie[[Untitled.md| ]]auf eine tiefere ebene des underdarks teleportiert und verschwindet.
+
+
+Spieler:
+- flo
+- varisho
+- justin
+- apollo
+- crossfire
+- richard
+- göbbi
+- steffen
